@@ -36,11 +36,7 @@ dataset/
 ├── cats/
 └── dogs/
 
-yaml
-Copy
-Edit
 
----
 
 ## 🧪 Technologies Used
 
@@ -53,7 +49,7 @@ Edit
 ---
 
 ## 🚀 How to Run
-
+Download dataSet https://drive.google.com/file/d/1ilHu3wBqO2C5diF9cihMdFRH2_3403NA/view?usp=sharing
 1. Unzip the dataset into a `dataset/` directory.
 2. Run the notebook or script step-by-step:
    - Custom CNN training
